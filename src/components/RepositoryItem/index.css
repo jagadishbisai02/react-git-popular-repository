@@ -1,0 +1,44 @@
+.language-card {
+  background-color: #f8f8ff;
+  border-radius: 24px;
+  margin: 12px;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.avatar-image {
+  width: 30%;
+  max-width: 268px;
+}
+
+.specific-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 85%;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 12px;
+}
+
+.counters {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+
+.heading-name {
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 3px;
+  color: #e73959;
+}
